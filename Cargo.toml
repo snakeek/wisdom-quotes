@@ -6,8 +6,8 @@ authors = ["skywalker124"]
 description = "A beautiful command-line tool to display random famous quotes from both English and Chinese literature"
 license = "MIT OR Apache-2.0"
 readme = "README.md"
-homepage = "https://github.com/skywalker124/quotes-cli"
-repository = "https://github.com/skywalker124/quotes-cli"
+homepage = "https://github.com/snakeek/quotes-cli"
+repository = "https://github.com/snakeek/quotes-cli"
 keywords = ["quotes", "cli", "random", "poetry", "chinese"]
 categories = ["command-line-utilities"]
 
