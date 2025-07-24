@@ -1,4 +1,4 @@
-# Quotes CLI 📚
+# Wisdom Quotes 📚
 
 A beautiful command-line tool to display random famous quotes from both English and Chinese literature.
 
@@ -16,13 +16,13 @@ A beautiful command-line tool to display random famous quotes from both English 
 
 ### From crates.io
 ```bash
-cargo install quotes-cli
+cargo install wisdom-quotes
 ```
 
 ### From source
 ```bash
-git clone https://github.com/skywalker124/quotes-cli.git
-cd quotes-cli
+git clone https://github.com/snakeek/wisdom-quotes.git
+cd wisdom-quotes
 cargo install --path .
 ```
 
